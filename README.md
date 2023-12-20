@@ -25,7 +25,8 @@ Sequelize, MySQL, and Express for programs used within the created application. 
 
 https://github.com/chriswaje/e-commerce-backend (link to project repository)
 
-(link to demonstration video)
+https://drive.google.com/file/d/1GSnJ6lo6fnA6gnLOkNgBYfzSaBLRldvd/view?usp=sharing (link to demonstration video)
 
 ## Image(s)
 
+![](./assets/images/e-commerce-backend.png)
